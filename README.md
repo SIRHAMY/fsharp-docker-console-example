@@ -1,3 +1,5 @@
+_This repo is now archived. Subscribers to the [HAMINION membership](https://hamy.xyz/labs/haminions) have access to updates as well as full source code access for dozens of tutorials and examples._
+
 # Overview
 
 A simple example repo for running an fsharp console application in Docker.
